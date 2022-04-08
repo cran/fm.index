@@ -1,0 +1,2 @@
+PKG_CPPFLAGS=-Isdsl/include -Isdsl/external/cereal/include
+CXX_STD = CXX14
